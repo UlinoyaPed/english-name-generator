@@ -34,9 +34,8 @@ public class Name {
     public String generatName(int length) {
         String name = "";
         char[] lettervowels = { 'a', 'e', 'i', 'o', 'u' };
-        char[] letterconsonants = { 'b', 'c', 'd', 'f', 'g', 'h', 'g', 'k', 'l', 'm', 'n' };
-
-        char[] capitallettervowels = { 'A', 'E', 'I', 'O', 'U' };
+        char[] letterconsonants = { 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r',
+                's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
 
         return name;
 
