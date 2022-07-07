@@ -1,0 +1,2 @@
+jar -cvfe english-name-generator.jar Name *.class
+java -jar english-name-generator.jar
