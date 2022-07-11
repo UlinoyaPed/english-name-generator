@@ -43,7 +43,6 @@ public class GUI extends JFrame {
 	 * Create the frame.
 	 */
 	public GUI() {
-		setType(Type.UTILITY);
 		setResizable(false);
 		setAlwaysOnTop(true);
 		setTitle("英文名生成器_GUI");
